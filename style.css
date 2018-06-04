@@ -1,0 +1,210 @@
+
+	h1 {
+		text-align: center;
+		font-family: arial;
+		}
+
+	h3{
+		font-family: arial;
+		color: #F55443;
+		}
+
+	hr{
+		color: #e0dfde;
+		}
+
+	li{
+		font-family: arial;
+		}
+
+
+.row{
+    	display: grid;
+    	grid-template-columns: 1fr 1fr;
+    	grid-template-rows: 2fr;
+    	grid-gap: 10px;
+
+    	width: 100%;
+    	/*grid-template-columns: 200px 200px;*/
+		}
+
+
+
+
+			.cell-1{
+				float: left;
+				width: 60%;
+				}
+
+			.cell_1 p{
+				font-family: arial;
+				}
+
+.foto{
+		border-radius: 50%;
+		width: 30vh;
+		border-width: 10px;
+		border-color: #eeeeee;
+		border-style: solid;
+		margin-left: 42%;
+		margin-top: 80px;
+		margin-bottom: 100px;
+		z-index: 10%;
+		}
+
+	.fondo_foto{
+		background-color: #eeeeee;
+		z-index: -10%;
+		height: 150px;
+		margin-bottom: 180px;
+
+		}
+
+		.año{
+			float: left;
+			margin-top: 0px;
+			width: 20%;
+			height:150px;
+			
+			background-color: white;
+			}
+
+
+
+		.rectángulos{
+			width: 100%;
+			height: 100px;
+			background-color:#eeeeee;
+			font-family: arial;
+			border-radius: 3%;
+			margin-top: 50px;
+			}
+
+
+		.google{
+			float: left;
+			margin-top: 0px;
+			width: 30%;
+			height:150px;
+			font-family: arial;
+			}
+
+			.rectángulos2{
+				width: 100%;
+				height: 100px;
+				font-family: arial;
+				margin-top: 50px;
+				}
+
+			.cell-2{
+				
+				width:100%;
+				}
+	
+
+			.graph {
+				
+				width: 100%;
+				
+				}
+
+		.graph .bar{
+			display: block;
+			position: relative;
+			background: #F55443;
+			height: 2em;
+			font-family: arial;
+
+			}
+	
+		.bar p{
+			color: white;
+			padding: 5px 5px 5px 15px;
+
+			}
+
+
+		.barra1{
+			width: 70%;
+			}
+			.barra2{
+			width: 60%;
+			}
+				.barra3{
+				width: 40%;
+				}
+					.barra4{
+					width: 30%;
+					}
+						.barra5{
+						width: 15%;
+						}
+	.idioma{
+		float: left;
+		margin-right:300px;
+		font-family: arial;
+		}	
+
+		.estrellas{
+			margin-top: 35px;
+			color: #F55443;
+			}
+
+
+
+	.hobbie p{
+		color: white;
+		padding: 2% 2% 3% 2%;
+		float: left;
+		margin-right: 10px;
+		background-color: #B05368;
+		height: 10px;
+		font-family: arial;
+		}
+
+	
+
+	.hobbie{
+		
+		width: 100%;
+	
+		}
+
+		footer{
+			width: 100%;
+			
+			}
+
+
+		.curso{
+			font-family: arial;
+			margin-left: 82%;
+			margin-top: 0px
+
+		}
+
+
+			.footer{
+				background-color: #eeeeee;
+				width: 100%;
+				height: 150px
+				}
+			
+			
+
+			
+
+		
+
+
+
+		
+
+
+				
+
+	
+
+
+
+
